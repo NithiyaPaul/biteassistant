@@ -1,0 +1,2 @@
+rootProject.name='BiteAssistant'
+include ':app'
